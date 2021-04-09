@@ -1,0 +1,7 @@
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMockOnDotNetFramework\bin\Debug\UntiTestWithMockOnDotNetFramework.exe.config
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMockOnDotNetFramework\bin\Debug\UntiTestWithMockOnDotNetFramework.exe
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMockOnDotNetFramework\bin\Debug\UntiTestWithMockOnDotNetFramework.pdb
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMockOnDotNetFramework\obj\Debug\UntiTestWithMockOnDotNetFramework.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMockOnDotNetFramework\obj\Debug\UntiTestWithMockOnDotNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMockOnDotNetFramework\obj\Debug\UntiTestWithMockOnDotNetFramework.exe
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMockOnDotNetFramework\obj\Debug\UntiTestWithMockOnDotNetFramework.pdb

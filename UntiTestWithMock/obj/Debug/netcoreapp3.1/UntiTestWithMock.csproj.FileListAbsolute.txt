@@ -1,0 +1,15 @@
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\bin\Debug\netcoreapp3.1\UntiTestWithMock.exe
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\bin\Debug\netcoreapp3.1\UntiTestWithMock.deps.json
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\bin\Debug\netcoreapp3.1\UntiTestWithMock.runtimeconfig.json
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\bin\Debug\netcoreapp3.1\UntiTestWithMock.runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\bin\Debug\netcoreapp3.1\UntiTestWithMock.dll
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\bin\Debug\netcoreapp3.1\UntiTestWithMock.pdb
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\bin\Debug\netcoreapp3.1\Rhino.Mocks.dll
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.AssemblyInfo.cs
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.csproj.CopyComplete
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.dll
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.pdb
+C:\Users\N000158893\source\repos\UnitTesting\UntiTestWithMock\obj\Debug\netcoreapp3.1\UntiTestWithMock.genruntimeconfig.cache

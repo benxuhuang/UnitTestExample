@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationByOverride", "Val
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationByOverrideTests", "ValidationByOverrideTests\ValidationByOverrideTests.csproj", "{7E29A8B7-B6A9-476A-B8D7-11ABFFAB025E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UntiTestWithMockOnDotNetFrameworkTests", "UnitTestWithMockOnNetFrameWork\UntiTestWithMockOnDotNetFrameworkTests.csproj", "{FD6AC44E-8EFE-449D-BA91-4C06E40C701F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UntiTestWithMockOnDotNetFramework", "UntiTestWithMockOnDotNetFramework\UntiTestWithMockOnDotNetFramework.csproj", "{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7E29A8B7-B6A9-476A-B8D7-11ABFFAB025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E29A8B7-B6A9-476A-B8D7-11ABFFAB025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E29A8B7-B6A9-476A-B8D7-11ABFFAB025E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6AC44E-8EFE-449D-BA91-4C06E40C701F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6AC44E-8EFE-449D-BA91-4C06E40C701F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6AC44E-8EFE-449D-BA91-4C06E40C701F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6AC44E-8EFE-449D-BA91-4C06E40C701F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
