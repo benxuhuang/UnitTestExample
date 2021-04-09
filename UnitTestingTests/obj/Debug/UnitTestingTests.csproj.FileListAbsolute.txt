@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\bin\Debug\UnitTestingTests.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\bin\Debug\UnitTestingTests.pdb
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\bin\Debug\UnitTesting.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\bin\Debug\UnitTesting.pdb
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\obj\Debug\UnitTestingTests.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\obj\Debug\UnitTestingTests.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\obj\Debug\UnitTestingTests.csproj.CopyComplete
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\obj\Debug\UnitTestingTests.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTestingTests\obj\Debug\UnitTestingTests.pdb

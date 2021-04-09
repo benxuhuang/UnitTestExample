@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\N000158893\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb

@@ -1,0 +1,13 @@
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\obj\Debug\netcoreapp3.1\ValidationByOverride.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\obj\Debug\netcoreapp3.1\ValidationByOverride.AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\obj\Debug\netcoreapp3.1\ValidationByOverride.AssemblyInfo.cs
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\obj\Debug\netcoreapp3.1\ValidationByOverride.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\bin\Debug\netcoreapp3.1\ValidationByOverride.exe
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\bin\Debug\netcoreapp3.1\ValidationByOverride.deps.json
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\bin\Debug\netcoreapp3.1\ValidationByOverride.runtimeconfig.json
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\bin\Debug\netcoreapp3.1\ValidationByOverride.runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\bin\Debug\netcoreapp3.1\ValidationByOverride.dll
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\bin\Debug\netcoreapp3.1\ValidationByOverride.pdb
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\obj\Debug\netcoreapp3.1\ValidationByOverride.dll
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\obj\Debug\netcoreapp3.1\ValidationByOverride.pdb
+C:\Users\N000158893\source\repos\UnitTesting\ValidationByOverride\obj\Debug\netcoreapp3.1\ValidationByOverride.genruntimeconfig.cache
