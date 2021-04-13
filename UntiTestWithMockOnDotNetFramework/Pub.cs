@@ -1,15 +1,18 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace UntiTestWithMockOnDotNetFramework
 {
-    public class Pub
+    public partial class Pub
     {
-        private ICheckInFee _checkInFee;
         private decimal _inCome = 0;
+        private ICheckInFee _checkInFee;
+        private ITimeWrapper _timeWrapper;
 
-        public Pub(ICheckInFee checkInFee)
+        public Pub(ICheckInFee checkInFee, ITimeWrapper timeWrapper)
         {
             this._checkInFee = checkInFee;
+            this._timeWrapper = timeWrapper;
         }
 
         public int CheckIn(List<Customer> list)
@@ -18,7 +21,8 @@ namespace UntiTestWithMockOnDotNetFramework
             foreach (var item in list)
             {
                 var isFemale = !item.IsMale;
-                if (isFemale)
+                var isLadyFriday = _timeWrapper.Now.DayOfWeek == DayOfWeek.Friday;
+                if (isFemale && isLadyFriday)
                 {
                     continue;
                 }
@@ -35,5 +39,6 @@ namespace UntiTestWithMockOnDotNetFramework
         {
             return this._inCome;
         }
+
     }
 }

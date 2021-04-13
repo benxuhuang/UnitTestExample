@@ -44,10 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Customer.cs" />
+    <Compile Include="FakeTimeWrapper.cs" />
     <Compile Include="ICheckInFee.cs" />
+    <Compile Include="ITimeWrapper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pub.cs" />
+    <Compile Include="TimeWrapper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

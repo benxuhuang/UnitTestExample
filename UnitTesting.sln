@@ -7,13 +7,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingTests", "UnitTestingTests\UnitTestingTests.csproj", "{F7ABD72E-CCF9-4206-B1EE-EF28B9A8BF75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationByOverride", "ValidationByOverride\ValidationByOverride.csproj", "{D7FBF997-30C8-4D20-ABDF-9CB9C2B89ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationByOverride", "ValidationByOverride\ValidationByOverride.csproj", "{D7FBF997-30C8-4D20-ABDF-9CB9C2B89ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationByOverrideTests", "ValidationByOverrideTests\ValidationByOverrideTests.csproj", "{7E29A8B7-B6A9-476A-B8D7-11ABFFAB025E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationByOverrideTests", "ValidationByOverrideTests\ValidationByOverrideTests.csproj", "{7E29A8B7-B6A9-476A-B8D7-11ABFFAB025E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UntiTestWithMockOnDotNetFrameworkTests", "UnitTestWithMockOnNetFrameWork\UntiTestWithMockOnDotNetFrameworkTests.csproj", "{FD6AC44E-8EFE-449D-BA91-4C06E40C701F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UntiTestWithMockOnDotNetFramework", "UntiTestWithMockOnDotNetFramework\UntiTestWithMockOnDotNetFramework.csproj", "{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplication\WebApplication.csproj", "{3E86BCBC-5086-496C-AF09-26E709233BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationTests", "WebApplicationTests\WebApplicationTests.csproj", "{3D9CD8A5-6662-40F3-9B00-0EEEFDA64E54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98FA69D8-CFDB-4044-A7CD-85FEECA469FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E86BCBC-5086-496C-AF09-26E709233BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E86BCBC-5086-496C-AF09-26E709233BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E86BCBC-5086-496C-AF09-26E709233BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E86BCBC-5086-496C-AF09-26E709233BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9CD8A5-6662-40F3-9B00-0EEEFDA64E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9CD8A5-6662-40F3-9B00-0EEEFDA64E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9CD8A5-6662-40F3-9B00-0EEEFDA64E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9CD8A5-6662-40F3-9B00-0EEEFDA64E54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
